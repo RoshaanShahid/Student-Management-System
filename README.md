@@ -5,3 +5,5 @@ This is a simple console-based student management system written in C++. It allo
 ## How to Use
 
 1. **Compile the Code**: Compile the `main.cpp` file using any C++ compiler. For example, using g++:
+2. **Run the Program**: Run the compiled executable:
+
